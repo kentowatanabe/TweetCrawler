@@ -1,2 +1,6 @@
+# scrapy
+.scrapy
+
+# mac
 .DS_Store
-*.pyc
+
